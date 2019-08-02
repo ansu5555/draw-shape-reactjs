@@ -1,0 +1,39 @@
+{
+    "name": "draw-shape-reactjs",
+    "version": "1.0.0",
+    "description": "React js package to draw simple shapes like line, circle, rectangle etc.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" ",
+        "build": "./node_modules/.bin/babel src --out-file index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/ansu5555/draw-shape-reactjs.git"
+    },
+    "keywords": [
+        "shapes",
+        "line",
+        "circle",
+        "reactangle",
+        "react-shapes"
+    ],
+    "author": "ansu5555",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ansu5555/draw-shape-reactjs/issues"
+    },
+    "homepage": "https://github.com/ansu5555/draw-shape-reactjs#readme",
+    "peerDependencies": {
+        "react": "^16.8.6",
+        "react-dom": "^16.8.6"
+    },
+    "devDependencies": {
+        "@babel/cli": "^7.5.5",
+        "@babel/core": "^7.5.5",
+        "@babel/preset-env": "^7.5.5",
+        "@babel/preset-react": "^7.0.0",
+        "react": "^16.8.6",
+        "react-dom": "^16.8.6"
+    }
+}
