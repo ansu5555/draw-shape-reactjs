@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/draw-shape-reactjs/static/css/main.2cce8147.chunk.css",
+    "main.js": "/draw-shape-reactjs/static/js/main.4f9bd664.chunk.js",
+    "main.js.map": "/draw-shape-reactjs/static/js/main.4f9bd664.chunk.js.map",
+    "runtime~main.js": "/draw-shape-reactjs/static/js/runtime~main.a17fa82a.js",
+    "runtime~main.js.map": "/draw-shape-reactjs/static/js/runtime~main.a17fa82a.js.map",
+    "static/js/2.51175ea1.chunk.js": "/draw-shape-reactjs/static/js/2.51175ea1.chunk.js",
+    "static/js/2.51175ea1.chunk.js.map": "/draw-shape-reactjs/static/js/2.51175ea1.chunk.js.map",
+    "index.html": "/draw-shape-reactjs/index.html",
+    "precache-manifest.b4d39dc3ad1bbf5f3dbe227cb2ce0b1b.js": "/draw-shape-reactjs/precache-manifest.b4d39dc3ad1bbf5f3dbe227cb2ce0b1b.js",
+    "service-worker.js": "/draw-shape-reactjs/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/draw-shape-reactjs/static/css/main.2cce8147.chunk.css.map"
+  }
+}
